@@ -13,3 +13,9 @@ My calculation scores the applicants based on 2 factors:
 Once all the applicants compatibilites are calculated, it is returned to the client via json.
 
 ## Example
+
+### Input
+![alt text](https://github.com/quinnoneal/compatibility-predictor/blob/main/Screen%20Shot%202023-05-23%20at%203.26.24%20PM.png)
+
+### Output
+![alt text](https://github.com/quinnoneal/compatibility-predictor/blob/main/Screen%20Shot%202023-05-23%20at%203.26.04%20PM.png)
